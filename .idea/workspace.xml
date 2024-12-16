@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f84a3abc-0c95-4273-9002-018760942731" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_imgs/OASIS registration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_imgs/boxplot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments/dsc0.050.pth.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Eva_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/MPLD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/MinMax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/configs_MPLD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/datagenerators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/datasets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/finite_differences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/similarity_Evaluator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/trans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/transformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2TYdxxVdsTOkCL95UmH7q24wiKQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/GONGZUO/TUIXIANGPEIZH/PING/CHENGXU/MPLD_for_Medical_Image_Registration-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pip install tensorboard" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.infer_TransMorph">
+    <configuration name="infer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TransMorph_Transformer_for_Medical_Image_Registration-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baseline_registration_models/MIDIR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baseline_registration_models/MIDIR/infer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="infer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TransMorph_Transformer_for_Medical_Image_Registration-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baseline_registration_models/CycleMorph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baseline_registration_models/CycleMorph/infer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="infer_TransMorph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TransMorph_Transformer_for_Medical_Image_Registration-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TransMorph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TransMorph/infer_TransMorph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="infer_TransMorph_Bayes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TransMorph_Transformer_for_Medical_Image_Registration-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TransMorph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TransMorph/infer_TransMorph_Bayes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="infer_TransMorph_bspl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TransMorph_Transformer_for_Medical_Image_Registration-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TransMorph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TransMorph/infer_TransMorph_bspl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.infer_TransMorph" />
+        <item itemvalue="Python.infer_TransMorph_bspl" />
+        <item itemvalue="Python.infer (1)" />
+        <item itemvalue="Python.infer_TransMorph_Bayes" />
+        <item itemvalue="Python.infer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f84a3abc-0c95-4273-9002-018760942731" name="变更" comment="" />
+      <created>1691224198319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691224198319</updated>
+      <workItem from="1699085062828" duration="7769000" />
+      <workItem from="1699514402999" duration="935000" />
+      <workItem from="1699519325669" duration="29413000" />
+      <workItem from="1699754317390" duration="101128000" />
+      <workItem from="1700273028152" duration="178083000" />
+      <workItem from="1702371513283" duration="750000" />
+      <workItem from="1702975902089" duration="3193000" />
+      <workItem from="1703140914355" duration="5774000" />
+      <workItem from="1705580992718" duration="654000" />
+      <workItem from="1707049127894" duration="7026000" />
+      <workItem from="1708505638028" duration="1454000" />
+      <workItem from="1711691061504" duration="5015000" />
+      <workItem from="1714706773188" duration="1991000" />
+      <workItem from="1714716698862" duration="1508000" />
+      <workItem from="1716186214031" duration="3222000" />
+      <workItem from="1716345431607" duration="617000" />
+      <workItem from="1716454861754" duration="3442000" />
+      <workItem from="1718675327232" duration="1191000" />
+      <workItem from="1719208957563" duration="702000" />
+      <workItem from="1720495780650" duration="656000" />
+      <workItem from="1720680552228" duration="1187000" />
+      <workItem from="1723600954710" duration="858000" />
+      <workItem from="1723602039191" duration="5231000" />
+      <workItem from="1723687131405" duration="702000" />
+      <workItem from="1723709658733" duration="1213000" />
+      <workItem from="1724739856229" duration="593000" />
+      <workItem from="1725791751218" duration="604000" />
+      <workItem from="1729588001667" duration="595000" />
+      <workItem from="1730881002691" duration="790000" />
+      <workItem from="1731653861235" duration="3455000" />
+      <workItem from="1732518656615" duration="70000" />
+      <workItem from="1733987835598" duration="592000" />
+      <workItem from="1733988453658" duration="2852000" />
+      <workItem from="1733991443958" duration="4562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/data/datasets.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/train_TransMorph_Bayes.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/train_TransMorph_Bayes.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/train_TransMorph_Bayes.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/train_TransMorph_Bayes.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/infer_TransMorph_Bayes.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/infer_TransMorph_Bayes.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/infer_TransMorph_Bayes.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/infer_TransMorph_Bayes.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baseline_registration_models/CycleMorph/infer.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baseline_registration_models/CycleMorph/infer.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baseline_registration_models/CycleMorph/infer.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baseline_registration_models/CycleMorph/infer.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/train_TransMorph_bspl.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/train_TransMorph_bspl.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/train_TransMorph_bspl.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/train_TransMorph_bspl.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/TransMorph_bspl.py</url>
+          <line>180</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/TransMorph_bspl.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/TransMorph_bspl.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/transformation.py</url>
+          <line>237</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/transformation.py</url>
+          <line>245</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/transformation.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/TransMorph_Bayes.py</url>
+          <line>900</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/TransMorph_Bayes.py</url>
+          <line>901</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/TransMorph_Bayes.py</url>
+          <line>902</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/TransMorph_bspl.py</url>
+          <line>147</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/models/TransMorph_bspl.py</url>
+          <line>148</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/train_TransMorph_diff.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baseline_registration_models/MIDIR/transformation.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baseline_registration_models/MIDIR/transformation.py</url>
+          <line>247</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baseline_registration_models/MIDIR/transformation.py</url>
+          <line>243</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baseline_registration_models/MIDIR/transformation.py</url>
+          <line>240</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baseline_registration_models/MIDIR/train_MIDIR.py</url>
+          <line>175</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baseline_registration_models/MIDIR/train_MIDIR.py</url>
+          <line>174</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/utils.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/infer_TransMorph.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/infer_TransMorph.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransMorph/infer_TransMorph.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$train_TransMorph_diff.coverage" NAME="train_TransMorph_diff 覆盖结果" MODIFIED="1701315115863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$train_MIDIR.coverage" NAME="train_MIDIR 覆盖结果" MODIFIED="1701309266846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baseline_registration_models/MIDIR" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$train_TransMorph2.coverage" NAME="train_TransMorph2 覆盖结果" MODIFIED="1700913738143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$infer_TransMorph_Bayes.coverage" NAME="infer_TransMorph_Bayes 覆盖结果" MODIFIED="1716706495374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$infer.coverage" NAME="infer 覆盖结果" MODIFIED="1716706239212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baseline_registration_models/CycleMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$train_CycleMorph.coverage" NAME="train_CycleMorph 覆盖结果" MODIFIED="1700980544372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baseline_registration_models/CycleMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$train_CoTr.coverage" NAME="train_CoTr 覆盖结果" MODIFIED="1701332825382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baseline_Transformers" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$TransMorph_bspl.coverage" NAME="TransMorph_bspl 覆盖结果" MODIFIED="1701159404833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph/models" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$train_TransMorph.coverage" NAME="train_TransMorph 覆盖结果" MODIFIED="1702033933703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$pkl.coverage" NAME="pkl 覆盖结果" MODIFIED="1699602283559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baseline_registration_models/VoxelMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$infer_TransMorph_bspl.coverage" NAME="infer_TransMorph_bspl 覆盖结果" MODIFIED="1716706977749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$TransMorph_Bayes.coverage" NAME="TransMorph_Bayes 覆盖结果" MODIFIED="1700896170505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph/models" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$train_TransMorph_bspl.coverage" NAME="train_TransMorph_bspl 覆盖结果" MODIFIED="1701160955459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$infer__1_.coverage" NAME="infer (1) 覆盖结果" MODIFIED="1716706793370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baseline_registration_models/MIDIR" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$transformation.coverage" NAME="transformation 覆盖结果" MODIFIED="1701155368228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph/models" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$infer_TransMorph_diff.coverage" NAME="infer_TransMorph_diff 覆盖结果" MODIFIED="1707101445310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$train_TransMorph_Bayes.coverage" NAME="train_TransMorph_Bayes 覆盖结果" MODIFIED="1701502382627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph" />
+    <SUITE FILE_PATH="coverage/TransMorph_Transformer_for_Medical_Image_Registration_main$infer_TransMorph.coverage" NAME="infer_TransMorph 覆盖结果" MODIFIED="1723729639298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TransMorph" />
+  </component>
+</project>
